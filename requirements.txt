@@ -1,0 +1,4 @@
+matplotlib==3.6.3
+networkx==2.8.8
+psutil==5.9.8
+scapy==2.5.0+git20240324.2b58b51

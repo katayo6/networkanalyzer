@@ -61,5 +61,7 @@ example:
 # Сохранение логов в файл http_logs.txt:
 ```python network_traffic_analysis.py save -o http_logs.txt```
 
+### Примеры изображений графиков в GUI:
 
+![Alt text](https://github.com/katayo6/networkanalyzer/blob/main/network_graph.png)
 
